@@ -1,0 +1,14 @@
+#head{height:auto;width: 1300px;background-color: white}
+#div1{height:190px;width: 1300px;}
+#div1 p{margin-top:0px;font-size: 40px;font-family: sans-serif;float:center;color: white;}
+#main{background-color: bisque;width: 1300px;height:40px;}
+#main ul li{display: inline-block;margin-left:40px;font-size: 30px}
+#main ul li a{text-decoration: none;color: dodgerblue;}
+#main ul li a:hover{text-decoration:inherit;color: orangered;}
+#div3{width:1300px;height:500px;padding:0px;margin:0px;background-image: url(isrow.jpg);}
+#div3 img{height: 500px;width=500px;margin:0px;padding:0px}
+#div11{background: black;width:1300px;height:100px;float:left;}
+#div11 li {display: inline-block;color:white;border-right:1px solid white;padding:5px}
+#div11 p{color:darkslategrey}
+#div11 li a{color:white;font-size: 20px;text-decoration: none;}
+#div11 li a:hover{text-decoration: none;color: orange}
